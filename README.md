@@ -19,6 +19,7 @@
 - 🌱 Currently going deeper on scalable backend architecture, clean API design, and payments
 - 💬 Ask me about **Rails**, **React**, **JavaScript / TypeScript**, or **PostgreSQL**
 - ⚡ I enjoy taking an idea all the way to a shipped, working product
+- 📍 Based in Coimbatore, India
 
 ---
 
@@ -49,8 +50,8 @@
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-webdev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkarthik1542734@gmail.com)
 
-<!-- Add these when you're ready:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+<!-- Add your portfolio site here when ready:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://YOUR-SITE)
 -->
