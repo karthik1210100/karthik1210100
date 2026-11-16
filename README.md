@@ -2,17 +2,19 @@
 <h3 align="center">Full-stack Developer · Ruby on Rails + React / TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+web+developer;Ruby+on+Rails+%2B+React;Turning+ideas+into+working+products;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+web+developer;Ruby+on+Rails+%2B+React;Turning+ideas+into+working+products;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karthik1210100&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/karthik-webdev/"><img src="https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=flat&logo=briefcase&logoColor=white" alt="open to work" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About me
 
+- 💼 **Open to full-stack / web developer roles** — Rails · React · TypeScript
 - 🔭 I build full-stack web applications with **Ruby on Rails** and **React + TypeScript**
 - 🌱 Currently going deeper on scalable backend architecture, clean API design, and payments
 - 💬 Ask me about **Rails**, **React**, **JavaScript / TypeScript**, or **PostgreSQL**
@@ -44,12 +46,11 @@
 
 ---
 
-<!--
 ### 🤝 Connect with me
 
-Give me your links and I'll turn these on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-webdev/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
+<!-- Add these when you're ready:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://YOUR-SITE)
 -->
