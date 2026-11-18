@@ -45,7 +45,7 @@
 |---|---|---|---|
 | **[Movie Review](https://github.com/karthik1210100/movie_review)** — ratings, reviews & threaded comments | Ruby on Rails · RSpec · Devise · CanCanCan | — | [![Rails CI](https://github.com/karthik1210100/movie_review/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/karthik1210100/movie_review/actions/workflows/rubyonrails.yml) |
 | **[Portfolio](https://github.com/karthik1210100/portfolio)** — animated personal site | React · Tailwind CSS · Framer Motion | [Open ↗](https://portfolio-sable-one-81gt9susdj.vercel.app) | [![CI](https://github.com/karthik1210100/portfolio/actions/workflows/ci.yml/badge.svg?branch=dev-portfolio)](https://github.com/karthik1210100/portfolio/actions/workflows/ci.yml) |
-| **[StyleSneak](https://github.com/karthik1210100/stylesneak-ecommerce)** — footwear e-commerce store | React · Cart · Wishlist · Checkout | [Open ↗](https://style-trends.netlify.app) | — |
+| **[StyleSneak](https://style-trends.netlify.app)** — footwear e-commerce store | React · Cart · Wishlist · Checkout | [Open ↗](https://style-trends.netlify.app) | — |
 | **[Taxi App](https://github.com/karthik1210100/taxi_app)** — taxi booking UI | React · Responsive UI | — | [![CI](https://github.com/karthik1210100/taxi_app/actions/workflows/ci.yml/badge.svg)](https://github.com/karthik1210100/taxi_app/actions/workflows/ci.yml) |
 
 ---
