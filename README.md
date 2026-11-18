@@ -39,11 +39,28 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+| Project | Built with | Live demo | Build |
+|---|---|---|---|
+| **[Movie Review](https://github.com/karthik1210100/movie_review)** — ratings, reviews & threaded comments | Ruby on Rails · RSpec · Devise · CanCanCan | — | [![Rails CI](https://github.com/karthik1210100/movie_review/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/karthik1210100/movie_review/actions/workflows/rubyonrails.yml) |
+| **[Portfolio](https://github.com/karthik1210100/portfolio)** — animated personal site | React · Tailwind CSS · Framer Motion | [Open ↗](https://portfolio-sable-one-81gt9susdj.vercel.app) | [![CI](https://github.com/karthik1210100/portfolio/actions/workflows/ci.yml/badge.svg?branch=dev-portfolio)](https://github.com/karthik1210100/portfolio/actions/workflows/ci.yml) |
+| **[StyleSneak](https://github.com/karthik1210100/stylesneak-ecommerce)** — footwear e-commerce store | React · Cart · Wishlist · Checkout | [Open ↗](https://style-trends.netlify.app) | — |
+| **[Taxi App](https://github.com/karthik1210100/taxi_app)** — taxi booking UI | React · Responsive UI | — | [![CI](https://github.com/karthik1210100/taxi_app/actions/workflows/ci.yml/badge.svg)](https://github.com/karthik1210100/taxi_app/actions/workflows/ci.yml) |
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=karthik1210100&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthik1210100/karthik1210100/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthik1210100/karthik1210100/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/karthik1210100/karthik1210100/output/github-snake.svg" />
+</picture>
 
 ---
 
