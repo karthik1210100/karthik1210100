@@ -49,6 +49,8 @@
 | **[StyleSneak](https://style-trends.netlify.app)** — footwear e-commerce store | React · Cart · Wishlist · Checkout | [Open ↗](https://style-trends.netlify.app) | — |
 | **[Taxi App](https://github.com/karthik1210100/taxi_app)** — taxi booking UI | React · Responsive UI | — | [![CI](https://github.com/karthik1210100/taxi_app/actions/workflows/ci.yml/badge.svg)](https://github.com/karthik1210100/taxi_app/actions/workflows/ci.yml) |
 
+> 🧩 **Open source:** [**agent-skills**](https://github.com/karthik1210100/agent-skills) — installable AI coding-agent skills for full-stack work (Rails API + React/TypeScript), in the portable `SKILL.md` format · `npx skills add https://github.com/karthik1210100/agent-skills`
+
 ---
 
 ### 📊 GitHub Activity
