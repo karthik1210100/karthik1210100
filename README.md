@@ -43,6 +43,7 @@
 
 | Project | Built with | Live demo | Build |
 |---|---|---|---|
+| **[DevToolbox](https://github.com/karthik1210100/dev-toolbox)** — offline-first developer utilities (JSON, JWT, hash, cron & more) | Vanilla JS · PWA · Web Crypto | [Open ↗](https://karthik1210100.github.io/dev-toolbox/) | [![Pages](https://github.com/karthik1210100/dev-toolbox/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/karthik1210100/dev-toolbox/deployments) |
 | **[Movie Review](https://github.com/karthik1210100/movie_review)** — ratings, reviews & threaded comments | Ruby on Rails · RSpec · Devise · CanCanCan | — | [![Rails CI](https://github.com/karthik1210100/movie_review/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/karthik1210100/movie_review/actions/workflows/rubyonrails.yml) |
 | **[Portfolio](https://github.com/karthik1210100/portfolio)** — animated personal site | React · Tailwind CSS · Framer Motion | [Open ↗](https://portfolio-sable-one-81gt9susdj.vercel.app) | [![CI](https://github.com/karthik1210100/portfolio/actions/workflows/ci.yml/badge.svg?branch=dev-portfolio)](https://github.com/karthik1210100/portfolio/actions/workflows/ci.yml) |
 | **[StyleSneak](https://style-trends.netlify.app)** — footwear e-commerce store | React · Cart · Wishlist · Checkout | [Open ↗](https://style-trends.netlify.app) | — |
