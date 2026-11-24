@@ -23,6 +23,18 @@
 
 ---
 
+### 🏆 Highlights
+
+- 🚀 **Full-stack engineer, ~3.5 yrs** — Ruby on Rails + React / TypeScript
+- 🧾 **Building DezinersKnot @ Lingaasys** — a milestone-escrow design marketplace (Rails 6.1 API + React / TS): payments, contracts, chat, notifications
+- 🧰 **Shipped DevToolbox** — 12 offline-first developer tools, zero dependencies, installable PWA · [live](https://karthik1210100.github.io/dev-toolbox/)
+- ⚛️ **Built portfolio_2026** — React 19 + TypeScript (strict), Vitest-tested, ~77 KB gzip, accessible · [live](https://karthik1210100.github.io/portfolio_2026/)
+- 🎬 **Built Movie Review** — a full Rails app: Devise, CanCanCan, Active Storage, RSpec + CI
+- 🤖 **Published agent-skills** — portable AI coding-agent playbooks (`SKILL.md`)
+- ✅ **Every public project ships with a green CI pipeline**
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
