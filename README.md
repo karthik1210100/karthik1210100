@@ -68,7 +68,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik1210100&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Karthikeyan's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik1210100&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Karthikeyan's GitHub stats" height="170" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1210100&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" height="170" />
 </p>
